@@ -1,3 +1,11 @@
+Reference:
+
+© MIT 6.S191: Introduction to Deep Learning
+
+http://introtodeeplearning.com
+
+
+
 # MIT 6.S191 Lab 1: Intro to TensorFlow and Music Generation with RNNs
 
 ![alt text](https://github.com/aamini/introtodeeplearning/raw/master/lab1/img/music_waveform.png)
