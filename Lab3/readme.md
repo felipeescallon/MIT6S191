@@ -1,4 +1,4 @@
-# Reinforcement Learning (RL): 
+# Lab 3: Reinforcement Learning (RL) 
 
 My solution to the "TO-DO" exercises for Part 1 of Lab3 
 
