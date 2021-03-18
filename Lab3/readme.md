@@ -6,3 +6,10 @@ It has been applied to two cases:
 
 - *CartPole* 
 - *Pong game*
+
+
+Reference:
+
+© MIT 6.S191: Introduction to Deep Learning
+
+http://introtodeeplearning.com
