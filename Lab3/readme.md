@@ -1,1 +1,8 @@
-My solution to the "TO-DO" exercises for Part 1 and 2 of Lab3
+# Reinforcement Learning (RL): 
+
+My solution to the "TO-DO" exercises for Part 1 of Lab3 
+
+It has been applied to two cases:
+
+- CartPole 
+- Pong game
